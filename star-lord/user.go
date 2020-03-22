@@ -7,5 +7,6 @@ var level = 1 // 当前等级
 func UpLevel(e int) {
 	exp += e
 
+	// 每10个经验升1级
 	level = (exp / 10) + 1
 }
