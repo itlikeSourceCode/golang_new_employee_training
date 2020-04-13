@@ -1,5 +1,8 @@
 # Golang后端开发 - 岗前培训
 
+## 视频课程地址
+https://www.bilibili.com/video/BV1W741117pa?from=search&seid=13825386897622282900
+
 * 第一天：介绍我们的团队
 1. 团队组织结构
 1. 团队协作流程
